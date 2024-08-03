@@ -70,7 +70,7 @@ io.on('connection', (socket) => {
 });
 
 // const host = 'socket1.botngu.pro';
-const host = '127.0.0.1';
+const host = 'nodejs-socket-flame.vercel.app';
 // const port = 5001;
 const port = 1337;
 
